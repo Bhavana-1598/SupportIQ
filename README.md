@@ -3,7 +3,7 @@
 
 ## 📌 Project Description
 
-This project is an AI-powered system designed to analyze conversations and evaluate their quality using advanced Natural Language Processing techniques. The system processes text data, generates summaries, and calculates performance scores using Large Language Models and a Retrieval-Augmented Generation pipeline. The platform also provides dashboards for administrators and employees to monitor performance and insights.
+This project is an AI-powered system designed to analyze conversations and evaluate their quality using advanced Natural Language Processing techniques. The system processes text data generated from the call logs, generates summary of the call, and calculates performance scores using Large Language Models on basis of customer satisfaction, compliance and a Retrieval-Augmented Generation pipeline. The platform also provides dashboards for administrators and employees to monitor performance and insights.
 
 ---
 
@@ -48,18 +48,12 @@ Administrators can access a dedicated dashboard to monitor and analyze employee 
 * Natural Language Processing (NLP)
 * Large Language Models (LLM)
 * Retrieval-Augmented Generation (RAG)
-
+* API Keys for Transcription and Summarization
 ---
 
 
 
-## 🚀 Future Enhancements
 
-* Improved AI evaluation models
-* Advanced analytics dashboard
-* Real-time conversation insights
-
----
 
 
 
