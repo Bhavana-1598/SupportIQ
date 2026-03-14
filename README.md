@@ -81,56 +81,6 @@ Progress Monitoring & Optimization
 
 ---
 
-## ⚙ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/autonomous-workflow-ai-agent.git
-cd autonomous-workflow-ai-agent
-```
-
-### 2️⃣ Create Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-### 3️⃣ Activate Virtual Environment
-
-Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-Mac/Linux:
-
-```bash
-source .venv/bin/activate
-```
-
-### 4️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5️⃣ Add API Key
-
-Create a `.env` file and add:
-
-```
-API_KEY=your_api_key_here
-```
-
-### 6️⃣ Run the Project
-
-```bash
-python main.py
-```
-
----
 
 ## 📊 Example Workflow
 
