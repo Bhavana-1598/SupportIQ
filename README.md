@@ -1,46 +1,43 @@
 # SupportIQ
-# AI-Based Speech Analysis System
+# AI-Based Conversation Quality Analysis System
 
 ## 📌 Project Description
 
-This project is an AI-powered system designed to analyze employee speech recordings and evaluate performance automatically. The system converts speech into text, processes the text using Natural Language Processing, and generates quality scores. It also provides dashboards for both administrators and employees to monitor performance.
+This project is an AI-powered system designed to analyze conversations and evaluate their quality using advanced Natural Language Processing techniques. The system processes text data, generates summaries, and calculates performance scores using Large Language Models and a Retrieval-Augmented Generation pipeline. The platform also provides dashboards for administrators and employees to monitor performance and insights.
 
 ---
 
 ## ✨ Features
 
-### 1. Login System for Admin and Employee
+### 1. Speech-to-Text Transcription
+
+The system can convert speech recordings into text for further processing and analysis. This feature helps in handling spoken conversations when needed.
+
+### 2. NLP Processing
+
+The processed text is analyzed using Natural Language Processing techniques such as:
+
+* Text Summarization
+* Large Language Model (LLM) Scoring
+
+### 3. RAG Pipeline
+
+The system uses a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant information and generate meaningful insights from the processed data.
+
+### 4. Quality Score Dashboard
+
+An interactive dashboard displays conversation quality scores and performance insights in a clear and visual format.
+
+### 5. Login System for Admin & Employee
 
 The application provides secure login access for two types of users:
 
 * **Admin**
 * **Employee**
 
-### 2. Admin Performance Dashboard
+### 6. Admin Performance Dashboard
 
-Admins have access to a dedicated dashboard where they can monitor and analyze the performance of all employees, including quality scores and performance metrics.
-
-### 3. Speech-to-Text Transcription
-
-The system converts spoken audio into text using speech recognition technology. This allows the system to analyze conversations and extract useful information.
-
-### 4. NLP Processing
-
-The transcribed text is processed using Natural Language Processing techniques such as:
-
-* Text summarization
-* Large Language Model (LLM) scoring
-  This helps evaluate the quality and effectiveness of the conversation.
-
-### 5. RAG Pipeline
-
-Retrieval-Augmented Generation (RAG) is used to retrieve relevant information and generate meaningful responses or evaluations based on the processed text.
-
-### 6. Quality Score Dashboard
-
-The system generates performance scores based on conversation quality and displays them in an interactive dashboard for easy monitoring.
-
-
+Administrators can access a dedicated dashboard to monitor and analyze employee performance, including quality scores and related metrics.
 
 ---
 
@@ -72,8 +69,13 @@ The system generates performance scores based on conversation quality and displa
 
 ## 🚀 Future Enhancements
 
-* Real-time speech analysis
-* Improved accuracy using advanced AI models
-* Advanced analytics for employee performance
+* Improved AI evaluation models
+* Advanced analytics dashboard
+* Real-time conversation insights
 
 ---
+
+## 👨‍💻 Team
+
+Developed as part of a Hackathon Project.
+
