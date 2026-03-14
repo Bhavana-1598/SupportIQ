@@ -75,7 +75,5 @@ Administrators can access a dedicated dashboard to monitor and analyze employee 
 
 ---
 
-## 👨‍💻 Team
 
-Developed as part of a Hackathon Project.
 
