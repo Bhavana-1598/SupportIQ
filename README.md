@@ -9,11 +9,22 @@ This project is an AI-powered system designed to analyze employee speech recordi
 
 ## ✨ Features
 
-### 1. Speech-to-Text Transcription
+### 1. Login System for Admin and Employee
+
+The application provides secure login access for two types of users:
+
+* **Admin**
+* **Employee**
+
+### 2. Admin Performance Dashboard
+
+Admins have access to a dedicated dashboard where they can monitor and analyze the performance of all employees, including quality scores and performance metrics.
+
+### 3. Speech-to-Text Transcription
 
 The system converts spoken audio into text using speech recognition technology. This allows the system to analyze conversations and extract useful information.
 
-### 2. NLP Processing
+### 4. NLP Processing
 
 The transcribed text is processed using Natural Language Processing techniques such as:
 
@@ -21,24 +32,15 @@ The transcribed text is processed using Natural Language Processing techniques s
 * Large Language Model (LLM) scoring
   This helps evaluate the quality and effectiveness of the conversation.
 
-### 3. RAG Pipeline
+### 5. RAG Pipeline
 
 Retrieval-Augmented Generation (RAG) is used to retrieve relevant information and generate meaningful responses or evaluations based on the processed text.
 
-### 4. Quality Score Dashboard
+### 6. Quality Score Dashboard
 
 The system generates performance scores based on conversation quality and displays them in an interactive dashboard for easy monitoring.
 
-### 5. Login System for Admin and Employee
 
-The application provides secure login access for two types of users:
-
-* **Admin**
-* **Employee**
-
-### 6. Admin Performance Dashboard
-
-Admins have access to a dedicated dashboard where they can monitor and analyze the performance of all employees, including quality scores and performance metrics.
 
 ---
 
@@ -75,7 +77,3 @@ Admins have access to a dedicated dashboard where they can monitor and analyze t
 * Advanced analytics for employee performance
 
 ---
-
-## 👨‍💻 Team
-
-Developed as part of a Hackathon Project.
