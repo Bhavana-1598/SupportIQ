@@ -73,7 +73,7 @@ A searchable archive of completed projects with success scores, team sizes, tool
 
 | Layer | Technology |
 |---|---|
-| 🤖 LLM | Groq — llama3-70b-8192 |
+| 🤖 LLM | Groq — llama-3.3-70b-versatile |
 | ⚙️ Backend | FastAPI, Python 3.10+ |
 | 🗄️ Database | SQLite (WAL mode) |
 | 🎨 Frontend | React 18, Vite, Axios |
