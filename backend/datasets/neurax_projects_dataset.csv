@@ -1,0 +1,5 @@
+project_id,project_name,description,required_skills,deadline_days,priority
+PRJ001,AI Sales Assistant,AI assistant that generates sales proposals automatically,LLM;NLP;APIs,30,High
+PRJ002,Healthcare Diagnosis Model,Predict early disease risk using ML models,ML;Data Analysis;Python,45,High
+PRJ003,Customer Support Chatbot,AI chatbot for customer support queries,LLM;RAG;APIs,25,Medium
+PRJ004,Smart Inventory System,Automated inventory demand prediction system,Python;ML;Data Engineering,40,Medium

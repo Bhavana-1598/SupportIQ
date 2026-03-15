@@ -1,0 +1,12 @@
+tool_id,tool_name,tool_type,purpose
+T001,OpenAI API,LLM API,Natural language reasoning and generation
+T002,Pinecone,Vector Database,RAG and semantic search
+T003,PostgreSQL,Database,Structured relational data storage
+T004,Google Search API,Search Engine,External information retrieval
+T005,LangChain,AI Framework,Agent orchestration and tool integration
+T006,Anthropic Claude API,LLM API,Advanced reasoning and long-context language tasks
+T007,LangSmith,LLM Observability,LLM prompt tracing and performance monitoring
+T008,Weaviate,Vector Database,Open-source vector database with hybrid semantic search
+T009,FastAPI,Backend Framework,High-performance async Python REST API development
+T010,Flask,Backend Framework,Lightweight Python web framework for simple APIs
+T011,Sentry,Error Tracking	Real-time error tracking and performance monitoring

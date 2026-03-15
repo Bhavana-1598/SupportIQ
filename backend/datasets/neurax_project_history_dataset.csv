@@ -1,0 +1,4 @@
+history_id,project_id,project_name,team_size,tools_used,completion_days,success_score
+H001,PRJ010,Fraud Detection AI,4,Python;Scikit-learn;PostgreSQL,28,0.92
+H002,PRJ011,AI Resume Screening,3,Python;NLP;FastAPI,22,0.89
+H003,PRJ012,Retail Recommendation Engine,5,TensorFlow;Python;Redis,35,0.94
