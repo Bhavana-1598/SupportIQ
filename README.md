@@ -8,7 +8,7 @@
 
 Neurax is a full-stack AI agent designed to take the complexity out of project planning. You give it a project — a name, description, required skills, and a deadline — and it handles the rest autonomously.
 
-Under the hood, Neurax uses **Groq's LLM (llama3-70b-8192)** to think through your project like an experienced project manager. It breaks the work into structured tasks, matches those tasks to the right employees based on skills and availability, predicts whether your deadline is realistic, spots overload and skill gaps before they become problems, and recommends the best tools for the job.
+Under the hood, Neurax uses **Groq's LLM (llama-3.3-70b-versatile)** to think through your project like an experienced project manager. It breaks the work into structured tasks, matches those tasks to the right employees based on skills and availability, predicts whether your deadline is realistic, spots overload and skill gaps before they become problems, and recommends the best tools for the job.
 
 Everything is persisted in a lightweight **SQLite database**, served through a **FastAPI backend**, and presented in a clean **React dashboard** — no complex infrastructure, no cloud dependencies, just a focused tool that works.
 
