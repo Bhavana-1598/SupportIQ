@@ -82,4 +82,4 @@ A searchable archive of completed projects with success scores, team sizes, tool
 
 ---
 
-*Neurax AI · v4.1.0 · Built with Groq LLM*
+
